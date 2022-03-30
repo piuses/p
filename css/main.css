@@ -367,6 +367,10 @@ img{
   color: #3B9BF4;
   margin-bottom: 50px;
 }
+.technology__item img{
+  height: 100%;
+  width: 100%;
+}
 .technology-left{
   margin-right: 150px;
 }
